@@ -1,0 +1,6 @@
+{
+  "name": "Jersey REST Practice Studio",
+  "description": "Interactive Java EE / Jakarta EE JAX-RS & Jersey practice playground with RESTful endpoints, filter lifecycle pipeline, client integration, and live simulated runtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
